@@ -5,7 +5,7 @@
 <p align="left"><strong>Dosen :</strong></p>
 <p align="left">I Putu Gede Abdi Sudiatmika, S.Pd., M.Kom.</p>
 <p align="left"><strong>Nama Kelompok :</strong></p>
-<p align="left">1. Muhammad Firman Hermawan (19552011051)</p>
+<p align="left">1. Muhammad Firman Hermawan (19552011151)</p>
 <p align="left">2. Muhammad Ikhwan Fathulloh (19552011024)</p>
 
 <p align="left"><strong>Pengembangan</strong></p>
