@@ -12,6 +12,9 @@
 <p align="left">Untuk melihat perkembangan proyek bisa dilihat di repository pada link berikut.</p>
 <a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Hadid-Technology"><p align="left"><strong>Klik Disini</strong></p></a>
 
+<p align="left">Untuk melihat demo proyek bisa pada link berikut.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Us6f2Tu-95k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
